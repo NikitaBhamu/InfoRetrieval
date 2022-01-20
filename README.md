@@ -9,6 +9,5 @@ In this assignment the goal was to build an efficient boolean retrieval system f
 
 ## Assignment 2  :  Prior Ranking of Documents
 The goal of this assignment is to simply compute prior similarity-based authority of documents and qualitatively analyse the results. 
-1) We use of the  in this. 
-2) First the similarity graph between each pair of documents in the collection (the famous "20news-groups" dataset) is computed using two similarity algorithms which are Cosine Similarity and Jaccard Similarity.
-3) Then on this similarity graph, the PageRank scores of all documents is computed using the Scikit-Network module.
+1) First the similarity graph between each pair of documents in the collection (the famous "20news-groups" dataset) is computed using two similarity algorithms which are Cosine Similarity and Jaccard Similarity.
+2) Then on this similarity graph, the PageRank scores of all documents is computed using the Scikit-Network module.
