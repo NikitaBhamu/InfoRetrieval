@@ -1,6 +1,8 @@
 # InfoRetrieval
 This folder contains the assignment of the course COL764 : "Information Retrieval and Web Search".
 
+## Major Project :  Conversational Search
+
 ## Assignment 1  :  Inverted Index Construction
 In this assignment the goal was to build an efficient boolean retrieval system for English corpora.<br />
 1) The documents in the corpora are in the XML fragment form. The document collection is first inverted and an on-disk inverted index is built, consisting of a dictionary file and a single file of all postings lists.<br />
